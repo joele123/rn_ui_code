@@ -139,7 +139,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ant-design/ant-design-mobile-rn.git"
+    "url": "git@github.com:joele123/rn_ui_code.git"
   },
   "scripts": {
     "_android": "node node_modules/react-native/local-cli/cli.js run-android --root rn-kitchen-sink",
